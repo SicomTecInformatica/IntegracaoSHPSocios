@@ -1,0 +1,12 @@
+C:\ProjetosNET\Utility\IntegracaoSHPSocios\IntegracaoSHPSocios\obj\Debug\IntegracaoSHPSocios.csprojAssemblyReference.cache
+C:\ProjetosNET\Utility\IntegracaoSHPSocios\IntegracaoSHPSocios\obj\Debug\IntegracaoSHPSocios.csproj.CoreCompileInputs.cache
+C:\ProjetosNET\Utility\IntegracaoSHPSocios\IntegracaoSHPSocios\bin\Debug\IntegracaoSHPSocios.exe.config
+C:\ProjetosNET\Utility\IntegracaoSHPSocios\IntegracaoSHPSocios\bin\Debug\IntegracaoSHPSocios.exe
+C:\ProjetosNET\Utility\IntegracaoSHPSocios\IntegracaoSHPSocios\bin\Debug\IntegracaoSHPSocios.pdb
+C:\ProjetosNET\Utility\IntegracaoSHPSocios\IntegracaoSHPSocios\bin\Debug\Newtonsoft.Json.dll
+C:\ProjetosNET\Utility\IntegracaoSHPSocios\IntegracaoSHPSocios\bin\Debug\RestSharp.dll
+C:\ProjetosNET\Utility\IntegracaoSHPSocios\IntegracaoSHPSocios\bin\Debug\Newtonsoft.Json.xml
+C:\ProjetosNET\Utility\IntegracaoSHPSocios\IntegracaoSHPSocios\bin\Debug\RestSharp.xml
+C:\ProjetosNET\Utility\IntegracaoSHPSocios\IntegracaoSHPSocios\obj\Debug\IntegracaoSHPSocios.csproj.CopyComplete
+C:\ProjetosNET\Utility\IntegracaoSHPSocios\IntegracaoSHPSocios\obj\Debug\IntegracaoSHPSocios.exe
+C:\ProjetosNET\Utility\IntegracaoSHPSocios\IntegracaoSHPSocios\obj\Debug\IntegracaoSHPSocios.pdb
